@@ -42,6 +42,20 @@ Junior Full Stack Developer specializing in React.js and Tailwind CSS. I am pass
 * **Live Demo:** [Click Here to View](https://rahmashoaib995-cmyk.github.io/explore-world/))
 
 
+### 🍰 Cake Haven
+
+* **Description:** A modern and responsive bakery landing page designed to showcase cakes, desserts, and bakery products through an attractive and user-friendly interface.
+* **Technologies:** HTML5, Tailwind CSS, Font Awesome
+* **Features:**
+
+  * Fully responsive design
+  * Modern and visually appealing layout
+  * Product showcase sections
+  * Clean and intuitive user experience
+* **Live Demo:** [Click Here to View](https://rahmashoaib995-cmyk.github.io/cake-haven/)
+* **GitHub Repository:** [View Source Code](https://github.com/rahmashoaib995-cmyk/cake-haven)
+
+
 ## 📊 GitHub Stats
 
 ![Rahma's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rahmashoaib995-cmyk&show_icons=true&theme=radial&hide_border=true)
