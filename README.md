@@ -37,8 +37,8 @@ Junior Full Stack Developer specializing in React.js and Tailwind CSS. I am pass
 
 ## 📊 GitHub Stats
 
-![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmashoaib995-cmyk&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmashoaib995-cmyk&layout=compact&theme=radial&hide_border=true)
+![Rahma's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rahmashoaib995-cmyk&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahmashoaib995-cmyk&layout=compact&theme=radial&hide_border=true)
 
 ---
 
