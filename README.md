@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rahma Shoaib! 👋
 
-<!--
-**rahmashoaib995-cmyk/rahmashoaib995-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer specializing in React.js and Tailwind CSS. I'm passionate about building clean, responsive, and user-friendly web experiences, combining technical coding skills with strong communication.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- **Tools & Core:** Git & GitHub, Logic Design, Computer Architecture
+- **Soft Skills:** Sales, Telesales, Excellent Communication, Client Relations
+- **Productivity:** Microsoft Office (Word, Excel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Projects
+- **[Perfect Shade](https://rahmashoaib995-cmyk.github.io/perfect-shade/)** - A beautiful, web design project for a modern glasses shop using CSS/HTML.
+
+## 💼 Connect with me
+- **LinkedIn:** [www.linkedin.com/in/rahma-shoaib-321bb8341]
+- **My CV:** [https://drive.google.com/file/d/1AtTsvZUT2jqEnV8Gnwx67fuTu_G5vYsz/view?usp=drive_link]
