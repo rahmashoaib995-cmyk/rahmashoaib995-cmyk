@@ -35,6 +35,13 @@ Junior Full Stack Developer specializing in React.js and Tailwind CSS. I am pass
 - **Live Demo:** [Click Here to View](https://rahmashoaib995-cmyk.github.io/perfect-shade/)
   
 
+### 🌍 ExploreWorld
+
+* **Description:** A beautiful travel landing page built with HTML5 and CSS3, featuring a modern design and an engaging user experience.
+* **Technologies:** HTML5, CSS3
+* **Live Demo:** [Click Here to View](https://rahmashoaib995-cmyk.github.io/perfect-shade/)
+
+
 ## 📊 GitHub Stats
 
 ![Rahma's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rahmashoaib995-cmyk&show_icons=true&theme=radial&hide_border=true)
