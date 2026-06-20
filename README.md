@@ -30,8 +30,8 @@ Junior Full Stack Developer specializing in React.js and Tailwind CSS. I am pass
 ## 📁 My Projects
 
 ### 👓 Perfect Shade
-- **Description:** A beautiful, responsive web design project for a modern glasses shop.
-- **Technologies:** HTML5, CSS3, JavaScript
+- **Description:** A beautiful web design project for a modern glasses shop.
+- **Technologies:** HTML5, CSS3
 - **Live Demo:** [Click Here to View](https://rahmashoaib995-cmyk.github.io/perfect-shade/)
   
 
